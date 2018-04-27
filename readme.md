@@ -1,6 +1,6 @@
 
 # Casper WP Theme used on Mkhuda.com
-[![Casper](casper.png "Casper")](https://mkhuda.com)
+[![Casper](screenshot.png "Casper")](https://mkhuda.com)
 
 > A Ghost-like WordPress theme
 
