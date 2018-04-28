@@ -12,7 +12,7 @@
 		<div class="site-info inner">
 		    <section class="copyright">
 		    	<?php if(  false == get_theme_mod( 'casper_custom_footer') ) { ?>
-		    		<?php printf( __( '<a href="%1$s" rel="home">Casper WP</a> by Lacy Morrow', 'casper' ), esc_url( 'https://github.com/lacymorrow/casper' ) ); ?>
+		    		<?php printf( __( '<a href="%1$s" rel="home">Download Casper Mkhuda</a>', 'casper' ), esc_url( 'https://github.com/mkhuda/casper-mkhuda' ) ); ?>
 		    	<?php } else { echo get_theme_mod( 'casper_custom_footer'); } ?>
 		    </section>
 		</div><!-- .site-info -->
